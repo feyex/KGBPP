@@ -1570,3 +1570,7 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0; }
+
+  .content-section{
+    margin-top: 5rem;
+  }
