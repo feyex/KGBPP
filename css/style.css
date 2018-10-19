@@ -1574,3 +1574,18 @@ input[type="text"] {
   .content-section{
     margin-top: 5rem;
   }
+
+  .cont{
+    background-image: url(../images/h.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom:3rem;
+  }
+
